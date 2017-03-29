@@ -1,0 +1,10 @@
+# Diferenças do escalonamento no Windows e no Linux
+
+# Escalonamento no Windows:
+- é preemptivo com prioridade, que são organizadas em duas classes:
+  - tempo real;
+  - variável.
+- cada classe possui 16 níveis de prioridade;
+- 
+
+# Escalonamento no Linux:
