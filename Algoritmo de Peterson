@@ -1,1 +1,8 @@
+# Algoritmo de Peterson
 
+Relacionando o algoritmo com algum exemplo de seu funcionamento seria manusear ferramentas (exemplo, Visual Studio Online), com duas 
+ou mais pessoas mexendo no mesmo código simultaneamente, sem com que ocorra conflitos.
+
+* Qual a sua função para a proteção de zona critica (ou sessão critica)?
+ - Faz com que dois ou mais processos que tenham necessidades de serem executados ao mesmo tempo, sejam executados, pois o algoritmo
+ de Peterson permite com que isso ocorra.
